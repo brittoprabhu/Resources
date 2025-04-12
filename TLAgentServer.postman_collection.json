@@ -36,7 +36,7 @@
             ],
             "body": {
               "mode": "raw",
-              "raw": "{\"username\": \"testuser\", \"password\": \"Password123\", \"email\": \"testuser@example.com\", \"role\": \"Admin\"}"
+              "raw": "{\"username\": \"admin@tlagent.com\", \"password\": \"Password123\", \"email\": \"testuser@example.com\", \"role\": \"Admin\"}"
             },
             "url": {
               "raw": "{{baseUrl}}/api/auth/register",
